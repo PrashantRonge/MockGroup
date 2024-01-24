@@ -4,7 +4,7 @@ package demo_002;
 
 import java.util.HashMap;
 
-import org.json.simple.JSONObject;
+
 import org.testng.annotations.Test;
 
 import io.restassured.RestAssured;

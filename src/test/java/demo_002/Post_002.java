@@ -2,11 +2,12 @@ package demo_002;
 
 
 
-import org.json.simple.JSONObject;
+
 import org.testng.annotations.Test;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
+import net.minidev.json.JSONObject;
 
 
 public class Post_002 
